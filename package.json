@@ -1,0 +1,42 @@
+{
+  "name": "desktop-app-template-tauri",
+  "author": "Bytomil Team bytomilteam@gmail.com",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "start":"tauri dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.4.0",
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.4",
+    "@emotion/react": "^11.11.1",
+    "@mantine/carousel": "^6.0.19",
+    "@mantine/core": "^6.0.19",
+    "@mantine/dates": "^6.0.19",
+    "@mantine/dropzone": "^6.0.19",
+    "@mantine/form": "^6.0.19",
+    "@mantine/hooks": "^6.0.19",
+    "@mantine/modals": "^6.0.19",
+    "@mantine/notifications": "^6.0.19",
+    "@mantine/nprogress": "^6.0.19",
+    "@mantine/prism": "^6.0.19",
+    "@mantine/spotlight": "^6.0.19",
+    "@mantine/tiptap": "^6.0.19",
+    "@tabler/icons-react": "^2.31.0",
+    "@tauri-apps/api": "^1.4.0",
+    "@tiptap/extension-link": "^2.1.6",
+    "@tiptap/react": "^2.1.6",
+    "@tiptap/starter-kit": "^2.1.6",
+    "dayjs": "^1.11.9",
+    "embla-carousel-react": "^7.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
