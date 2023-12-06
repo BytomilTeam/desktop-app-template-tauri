@@ -15,7 +15,7 @@
   "devDependencies": {
     "@tauri-apps/cli": "^1.4.0",
     "@vitejs/plugin-react": "^4.0.3",
-    "vite": "^4.4.4",
+    "vite": "^4.4.12",
     "@emotion/react": "^11.11.1",
     "@mantine/carousel": "^6.0.19",
     "@mantine/core": "^6.0.19",
